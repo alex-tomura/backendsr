@@ -6,7 +6,7 @@
   "directories": {},
   "scripts": {
     "start": "node index.js",
-    "build": "npm install typescript"
+    "build": "npm install typescript && npm install"
   },
   "keywords": [],
   "author": "",
