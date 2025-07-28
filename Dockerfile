@@ -15,5 +15,5 @@ RUN npm run build --production
 COPY ./ ./
 
 # Paso de ejecución
-EXPOSE 3000
+EXPOSE 4000
 CMD ["npm", "start"]
